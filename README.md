@@ -7,6 +7,10 @@
 
 * Inscription 
 
+* Vérification par mail
+
 * CRUD pages 
 
 * géstion utilisateur 
+
+
